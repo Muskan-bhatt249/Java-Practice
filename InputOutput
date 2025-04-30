@@ -1,5 +1,5 @@
 import java.util.*;
-class practice{
+class Inputoutput{
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in); 
         System.out.print("Enter your full name: ");
