@@ -2,7 +2,7 @@
 # Java Practice 
 
 Welcome to my Java Practice repository! 👩‍💻🧑‍💻  
-Here, you'll find solutions to various Java programming problems that I've worked on while learning and strengthening my Java skills.
+Here, you'll find solutions to various Java programming problems that I've worked on while learning and strengthening my Java skills. Hope it helps you!!
 
 ---
 
