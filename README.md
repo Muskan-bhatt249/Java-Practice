@@ -1,4 +1,3 @@
-
 # Java Practice 
 
 Welcome to my Java Practice repository! 👩‍💻🧑‍💻  
